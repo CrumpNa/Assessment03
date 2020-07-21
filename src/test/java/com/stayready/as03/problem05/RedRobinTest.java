@@ -3,7 +3,7 @@ package com.stayready.as03.problem05;
 import org.junit.Assert;
 import org.junit.Test;
 
-public class RedRobinTest {
+public class RedRobinTest  {
 
     @Test
     public void testMove() {
