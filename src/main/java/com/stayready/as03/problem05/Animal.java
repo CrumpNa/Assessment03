@@ -7,6 +7,7 @@ public interface Animal {
 }
 
 
+
 /*
 Create the following animals:
 
